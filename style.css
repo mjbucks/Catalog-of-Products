@@ -1,13 +1,15 @@
 header {
-    background-color: #333;
+    background-color: #4b9ec2;
     color: #fff;
     padding: 10px 0;
+    padding-top: 2%;
 }
 
 nav ul {
     list-style: none;
     display: flex;
     justify-content: center;
+    height: 5%;
     }
     nav li {
     margin: 0 20px;
@@ -19,7 +21,25 @@ nav ul {
 
 footer {
     text-align: center;
+    text-decoration-color: #fff;
     padding: 10px;
-    background-color: #333;
+    background-color: #4b9ec2;
     color: #fff;
+}
+
+.date{
+    text-align: center;
+    text-decoration-color: #151414;
+    padding: 10px;
+    background-color: #cd1515;
+    color: #fff;
+}
+.about{
+    text-decoration-color: #151414;
+    padding: 2px;
+    color: #000000;
+}
+body{
+    margin:0;
+
 }
