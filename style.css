@@ -1,7 +1,6 @@
 header {
-    background-color: #333;
+    background-color: #4b9ec2;
     color: #fff;
-    padding: 10px 0;
 }
 
 nav ul {
@@ -19,7 +18,19 @@ nav ul {
 
 footer {
     text-align: center;
+    text-decoration-color: #fff;
     padding: 10px;
-    background-color: #333;
+    background-color: #4b9ec2;
     color: #fff;
+}
+
+.date{
+    text-align: center;
+    text-decoration-color: #151414;
+    padding: 10px;
+    background-color: #cd1515;
+    color: #fff;
+}
+.about{
+
 }
